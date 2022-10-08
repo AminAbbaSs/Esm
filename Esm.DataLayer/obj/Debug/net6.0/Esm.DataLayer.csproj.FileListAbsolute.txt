@@ -1,0 +1,14 @@
+E:\Source\Esm\Esm.DataLayer\bin\Debug\net6.0\Esm.DataLayer.deps.json
+E:\Source\Esm\Esm.DataLayer\bin\Debug\net6.0\Esm.DataLayer.runtimeconfig.json
+E:\Source\Esm\Esm.DataLayer\bin\Debug\net6.0\Esm.DataLayer.dll
+E:\Source\Esm\Esm.DataLayer\bin\Debug\net6.0\Esm.DataLayer.pdb
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.csproj.AssemblyReference.cache
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.AssemblyInfoInputs.cache
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.AssemblyInfo.cs
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.csproj.CoreCompileInputs.cache
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.dll
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\refint\Esm.DataLayer.dll
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.pdb
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\Esm.DataLayer.genruntimeconfig.cache
+E:\Source\Esm\Esm.DataLayer\obj\Debug\net6.0\ref\Esm.DataLayer.dll

@@ -1,0 +1,14 @@
+E:\Source\Esm\Esm.Core\bin\Debug\net6.0\Esm.Core.deps.json
+E:\Source\Esm\Esm.Core\bin\Debug\net6.0\Esm.Core.runtimeconfig.json
+E:\Source\Esm\Esm.Core\bin\Debug\net6.0\Esm.Core.dll
+E:\Source\Esm\Esm.Core\bin\Debug\net6.0\Esm.Core.pdb
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.csproj.AssemblyReference.cache
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.AssemblyInfoInputs.cache
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.AssemblyInfo.cs
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.csproj.CoreCompileInputs.cache
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.dll
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\refint\Esm.Core.dll
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.pdb
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\Esm.Core.genruntimeconfig.cache
+E:\Source\Esm\Esm.Core\obj\Debug\net6.0\ref\Esm.Core.dll

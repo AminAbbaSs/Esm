@@ -1,0 +1,61 @@
+body {
+    font-family: 'Vazirmatn';
+    background-color: #241441;
+
+}
+
+h1 {
+    color: #00FFB3;
+}
+
+.custom-h-white {
+    color: #BEBEBE;
+}
+
+.custom-neon-button {
+    background-color: #00FFB3;
+    color: #1A1452;
+
+}
+
+.custom-neon-button:hover {
+    background-color: #00FFB3;
+    color: #1A1452;
+}
+
+.custom-h-gradient {
+    color: linear-gradient(#12D1B1, #4A60BD);
+    background-image: linear-gradient(225deg, #12D1B1, #4A60BD);
+    filter: drop-shadow(0 20px 30px #12D1B1);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.pros-card {
+    background-color: #131313;
+    margin-bottom: 30px;
+    padding: 30px;
+    height: 550px;
+    border-radius: 5%;
+}
+
+.pros-card-icon {
+    color: rgb(0, 233, 185);
+}
+
+.pros-text{
+    color: #BEBEBE;
+    line-height: 200%;
+}
+
+/* end home - start register */
+.custom-form-icon{
+    color:#1A1452 ;
+}
+
+.custom-form-btn{
+    background-color:#1A1452
+}

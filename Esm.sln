@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esm.Web", "Esm\Esm.Web.csproj", "{E5D2DB47-E1F9-406E-9B6A-FB969A18548B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esm.DataLayer", "Esm.DataLayer\Esm.DataLayer.csproj", "{77077347-C3FC-410B-8190-9EE6742D8941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esm.Core", "Esm.Core\Esm.Core.csproj", "{BBF33861-38E5-4CC4-A1DB-D83468D0CB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D2DB47-E1F9-406E-9B6A-FB969A18548B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D2DB47-E1F9-406E-9B6A-FB969A18548B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D2DB47-E1F9-406E-9B6A-FB969A18548B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D2DB47-E1F9-406E-9B6A-FB969A18548B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77077347-C3FC-410B-8190-9EE6742D8941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77077347-C3FC-410B-8190-9EE6742D8941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77077347-C3FC-410B-8190-9EE6742D8941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77077347-C3FC-410B-8190-9EE6742D8941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF33861-38E5-4CC4-A1DB-D83468D0CB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF33861-38E5-4CC4-A1DB-D83468D0CB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF33861-38E5-4CC4-A1DB-D83468D0CB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF33861-38E5-4CC4-A1DB-D83468D0CB19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854D571B-2634-4FFC-BBB4-E9E7BFA36C11}
+	EndGlobalSection
+EndGlobal

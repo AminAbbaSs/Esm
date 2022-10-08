@@ -1,0 +1,8 @@
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.csproj.AssemblyReference.cache
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.AssemblyInfoInputs.cache
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.AssemblyInfo.cs
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.csproj.CoreCompileInputs.cache
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.RazorAssemblyInfo.cache
+E:\Source\Esm\Esm\obj\Debug\net6.0\Esm.Web.RazorAssemblyInfo.cs
